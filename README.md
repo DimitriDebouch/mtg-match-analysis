@@ -41,3 +41,20 @@ O relatório foi dividido em visões estratégicas:
     Tempo e Turnos: Estudo da duração das partidas para entender o ritmo do grupo.
 
     Modalidade de jogo: Filtro usado para segmentar e analisar as diferentes modalidades de jogo e como elas se relacionam com a vitória, duração e desempenho dos jogadores.
+
+## 📉 Visualizações do Dashboard
+
+Abaixo, apresento as principais visões desenvolvidas no Power BI para este projeto:
+
+### 1. Visão Geral
+Visão macro com os principais KPIs de participação e volume de jogos.
+![Dashboard Geral](./img/dashboard_geral.png)
+
+### 2. Análise de Desempenho
+Detalhamento de vitórias por deck, evolução temporal e winrates.
+![Dashboard Desempenho](./img/dashboard_desempenho.png)
+
+### 3. Deep Dive por Jogador
+Visão filtrada para análise individual de performance (Ex: Segmentação por jogo casual).
+![Dashboard Deep Dive Player](./img/dashboard_deepdive_player.png)
+
