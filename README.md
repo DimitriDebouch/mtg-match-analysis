@@ -10,7 +10,7 @@ A análise foi feita com base em 169 jogos e 219 baralhos únicos, revelando os 
 
     Taxa de Vitória (Win Rate): Identificação dos decks mais consistentes, como o Gale, Waterdeep Prodigy, que alcançou 58,62% de aproveitamento.
 
-    Vantagem do Primeiro Turno: Os dados provaram que o jogador que inicia a partida tem uma probabilidade de vitória de 58,27%, vantagem esta associada a modalidade de jogo.
+    Vantagem do Primeiro Turno: Os dados provaram que o jogador que inicia a partida tem uma probabilidade de vitória de 41,73%, vantagem esta associada a modalidade de jogo.
 
     Distribuição de Cores: Análise do equilíbrio do "meta", com o Vermelho e o Azul (21% cada) sendo as cores mais presentes em comandantes vitoriosos.
 
